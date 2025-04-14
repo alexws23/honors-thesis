@@ -131,7 +131,7 @@ In the past, I remember being thrilled to see a red fox scurry across the path, 
 ![A red fox hiding in the grasses](imgs/AWS-9056.jpg){.lightbox group="my-gallery4" description="`r descrip_exif("imgs/AWS-9056.jpg")`" fig-alt="An image of a fox with orange fur blending in with grasses and bushes that match its coat color"}
 :::
 
-So it was that after some wandering I spotted something lurking in the snow-covered reeds of this urban park only 20 feet from a suburban home. At first, I see just a bit of movement in the cattails, then a smudge of brown, and then out pops a gray face and a long, orange bill. A Virginia Rail, a secretive creature rarely seen in the open. It dips its curved beak into the frigid water, probing for the small aquatic plants, the only green present here in the winter. It continues feeding for a moment, until a hawk swoops down and it scurries off into the reeds to hide.  
+After some wandering I spotted something lurking in the snow-covered reeds of this urban park only 20 feet from a suburban home. At first, I see just a bit of movement in the cattails, then a smudge of brown, and then out pops a gray face and a long, orange bill. A Virginia Rail, a secretive creature rarely seen in the open. It dips its curved beak into the frigid water, probing for the small aquatic plants, the only green present here in the winter. It continues feeding for a moment, until a hawk swoops down and it scurries off into the reeds to hide.  
 \
 
 ::: {fig-align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));grid-gap: 1em;"}
@@ -242,7 +242,7 @@ We have seen some of the ways urban landscapes provide habitat for wildlife and 
 ![A cold winter landscape at a local park](imgs/AWS-2640.jpg){.lightbox group="my-gallery6" description="`r descrip_exif("imgs/AWS-2640.jpg")`" fig-alt="An image of a brown field of grasses with bare trees in the background and a cloudy sky" width=40%}
 :::
 
-This brown field with bare trees in the background, does not form the most appealing scene. Nonetheless, it provides both the ecosystem and the local community with numerous services. Snow melting here in the winter is captured by the soil, rather than flooding streets and gutters. The large cottonwood trees of the riparian woodland in the background provide habitat for owls, woodpeckers, squirrels and more. The seeds of the grasses and other plants in the foreground provide food for many different species that call this park home. The paths that meander through this park give local residents an opportunity to easily get outside and interact with nature, even in the winter when other recreational opportunities become more challenging.  
+This brown field with bare trees in the background does not form the most appealing scene. Nonetheless, it provides both the ecosystem and the local community with numerous services. Snow melting here in the winter is captured by the soil, rather than flooding streets and gutters. The large cottonwood trees of the riparian woodland in the background provide habitat for owls, woodpeckers, squirrels and more. The seeds of the grasses and other plants in the foreground provide food for many different species that call this park home. The paths that meander through this park give local residents an opportunity to easily get outside and interact with nature, even in the winter when other recreational opportunities become more challenging.  
 \
 
 ::: {fig-align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1em;"}

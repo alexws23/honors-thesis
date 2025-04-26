@@ -38,7 +38,7 @@ descrip_exif <- function(x){
 ## Summary
 :::
 
-It can be difficult to feel connected with nature in built-up urban spaces, especially during the winter months when temperatures are cold and even the street trees are bare and dormant. However, many natural elements, especially wildlife, nonetheless call these spaces home. Come and see some of the incredible diversity of life in these wintry, urban landscapes and learn about the benefits they provide us.  
+It can be difficult to feel connected with nature in built-up urban spaces, especially during the winter months when temperatures are cold and even the street trees are bare and dormant. However, many natural elements, especially wildlife, nonetheless call these spaces home. Come and see some of the incredible diversity of life in these wintry, urban landscapes and learn about the benefits they provide us.   
 \
 
 ::: {style="text-align: left;"}

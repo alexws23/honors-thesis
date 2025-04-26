@@ -30,11 +30,15 @@ descrip_exif <- function(x){
 :::
 \
 
+::: {fig-align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));grid-gap: 1em;"}
+![Mule Deer Lounge in the Front Yard of a Suburban Home](imgs/AWS-8508-Enhanced-NR.jpg){.lightbox group="my-gallery1" description="`r descrip_exif("imgs/AWS-8508-Enhanced-NR.jpg")`" fig-alt="An image of five deer on a grassy lawn illuminated by bands of orange light with a house in the background"}
+:::
+
 ::: {style="text-align: left;"}
 ## Summary
 :::
 
-When thinking of the concept of nature, there is often a close association with undeveloped, pristine landscapes like beaches and mountains, usually during summer months, when landscapes are full of life and the weather is nice. However, these spaces are often not easily accessible. Millions of people across the northern hemisphere live in heavily developed urban spaces, with the cold months of winter making up a significant portion of the year. This disconnect between societal conceptions of nature and the natural spaces that are most accessible brings consequences, particularly during less desirable seasons like winter, including a lack of human-nature interaction in urban ecosystems and large gaps in our understanding of their ecology. However, urban spaces and every season play an important role in ecological function and provide numerous benefits for human society. Through the following reflections, I aim to highlight the underappreciated value of wintertime urban landscapes, by showcasing their biodiversity and the ecosystem services they provide.
+It can be difficult to feel connected with nature in built-up urban spaces, especially during the winter months when temperatures are cold and even the street trees are bare and dormant. However, many natural elements, especially wildlife, nonetheless call these spaces home. Come and see some of the incredible diversity of life in these wintry, urban landscapes and learn about the benefits they provide us.  
 \
 
 ::: {style="text-align: left;"}
@@ -138,7 +142,7 @@ After some wandering I spotted something lurking in the snow-covered reeds of th
 ![A Virginia Rail feeding on aquatic plants](imgs/AWS-7869-Edit.jpg){.lightbox group="my-gallery4" description="`r descrip_exif("imgs/AWS-7869-Edit.jpg")`" fig-alt="An image of a round water bird with a gray face, brown body, and long orange beak feeding on aquatic plants in a marsh"}
 :::
 
-It’s often easy to dismiss urban spaces as ecological voids. This tiny natural area, however, tells a different story. It provides valuable habitat for even the most secretive and shy creatures. Rails, owls and foxes thrive in these small patches of habitat. Often, riparian urban forests much like this one serve to negate some of the impacts urban spaces have on ecosystem functions, improving species richness and abundance in these tiny oases of heavily managed wilderness..^[Atchison, K. A., & Rodewald, A. D. (2006). The Value of Urban Forests to Wintering Birds. Natural Areas Journal, 26(3), 280–288. https://doi.org/10.3375/0885-8608(2006)26[280:tvouft]2.0.co;2]  
+It’s often easy to dismiss urban spaces as ecological voids. This tiny natural area, however, tells a different story. It provides valuable habitat for even the most secretive and shy creatures. Rails, owls and foxes thrive in these small patches of habitat. Often, riparian urban forests much like this one serve to negate some of the impacts urban spaces have on ecosystem functions, improving species richness and abundance in these tiny oases of heavily managed wilderness.^[Atchison, K. A., & Rodewald, A. D. (2006). The Value of Urban Forests to Wintering Birds. Natural Areas Journal, 26(3), 280–288. https://doi.org/10.3375/0885-8608(2006)26[280:tvouft]2.0.co;2]  
 \
 
 ::: {style="text-align: left;"}
@@ -256,7 +260,7 @@ This brown field with bare trees in the background does not form the most appeal
 :::
 \
 
-Now, take a look at the second photo once more.  
+Now, take a look at this photo of an urban intersection again, which I asked you to reflect on at the beginning. Like we just did, see if you can spot any of the features I highlighted earlier.
 \
 
 ::: {fig-align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));grid-gap: 1em;"}
